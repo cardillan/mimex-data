@@ -7,6 +7,7 @@ The data are stored in individual text files in tabular form (semicolon separate
 Several versions of the metadata are kept, each in a separate directory:
 
 * `v126.2`: corresponds to **Mindustry 6.0 Build 126.2**
+  * No longer maintained. The existing data is valid, but no new data fields are added.
 * `v146`: corresponds to **Mindustry 7.0 Build 146**
 * `v149`: corresponds to **v8 Build 149 Beta**
 * `be`: corresponds to the bleeding-edge version of Mindustry.
@@ -16,6 +17,8 @@ In each directory, the following files are present (some files may be missing in
 * `mimex-alignments.txt`: possible alignments for the `draw print` instruction (without the `@` prefix)  
 * `mimex-block-flags.txt`: block groups used in the `ulocate` instruction
 * `mimex-blocks.txt`: block types
+* `mimex-block-requirements.txt`: material requirements (by item type) for building blocks (basic setup)
+  * Contains block name, id, logic id and requirements for each item type 
 * `mimex-colors.txt`: named colors
 * `mimex-commands.txt`: initial unit commands for units produced by factories
 * `mimex-conditions.txt`: conditions used in `jump` and `select` instructions 
@@ -39,6 +42,7 @@ In each directory, the following files are present (some files may be missing in
 * `mimex-radar-targets.txt`: types of targets for the `radar` instruction
 * `mimex-sounds.txt`: logic sounds
 * `mimex-status-effects.txt`: unit status effects
+* `mimex-teams.txt`: teams
 * `mimex-unit-control.txt`: `ucontrol` commands
 * `mimex-units.txt`: unit types
 * `mimex-vars.txt`: predefined variables in logic processors

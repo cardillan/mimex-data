@@ -17,3 +17,4 @@ unitAssembler;false
 hasFogRadius;false
 steamVent;false
 blockRepair;false
+synced;false
