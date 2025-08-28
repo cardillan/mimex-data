@@ -361,6 +361,7 @@ name;global;isobj;constant;numval
 @metal-tiles-10;global;true;true;0.0
 @metal-tiles-11;global;true;true;0.0
 @metal-tiles-12;global;true;true;0.0
+@metal-tiles-13;global;true;true;0.0
 @metal-tiles-2;global;true;true;0.0
 @metal-tiles-3;global;true;true;0.0
 @metal-tiles-4;global;true;true;0.0
@@ -369,6 +370,9 @@ name;global;isobj;constant;numval
 @metal-tiles-7;global;true;true;0.0
 @metal-tiles-8;global;true;true;0.0
 @metal-tiles-9;global;true;true;0.0
+@metal-wall-1;global;true;true;0.0
+@metal-wall-2;global;true;true;0.0
+@metal-wall-3;global;true;true;0.0
 @micro-processor;global;true;true;0.0
 @mineX;global;true;true;0.0
 @mineY;global;true;true;0.0
@@ -520,6 +524,8 @@ name;global;isobj;constant;numval
 @rough-rhyolite;global;true;true;0.0
 @router;global;true;true;0.0
 @rtg-generator;global;true;true;0.0
+@rune-overlay;global;true;true;0.0
+@rune-overlay-crux;global;true;true;0.0
 @salt;global;true;true;0.0
 @salt-wall;global;true;true;0.0
 @salvo;global;true;true;0.0

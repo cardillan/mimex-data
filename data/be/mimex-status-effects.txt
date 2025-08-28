@@ -19,7 +19,7 @@ shielded;15;-1;true
 boss;16;-1;false
 shocked;17;-1;false
 blasted;18;-1;false
-corroded;19;-1;true
+corroded;19;-1;false
 disarmed;20;-1;true
 invincible;21;-1;true
 dynamic;22;-1;true
