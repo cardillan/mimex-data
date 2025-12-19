@@ -17,6 +17,7 @@ payEnter
 mine
 flag
 build
+deconstruct
 getBlock
 within
 unbind
