@@ -34,7 +34,7 @@ In each directory, the following files are present (some files may be missing in
 * `mimex-liquids.txt`: liquid types
 * `mimex-locate.txt`: types of objects for the `ulocate` instruction 
 * `mimex-logic-rules.txt`: map rules for the `setrule` instruction
-* `mimex-logic-statements.txt`: all existing instructions with default values for missing arguments
+* `mimex-logic-statements.txt`: properties of existing instructions, including default argument values
 * `mimex-marker-control.txt`: marker properties
 * `mimex-markers.txt`: marker types
 * `mimex-message-types.txt`: message types for the `message` instruction
@@ -48,4 +48,3 @@ In each directory, the following files are present (some files may be missing in
 * `mimex-units.txt`: unit types
 * `mimex-vars.txt`: predefined variables in logic processors
 * `mimex-weathers.txt`: types of weather
-
