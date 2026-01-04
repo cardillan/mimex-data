@@ -6,7 +6,7 @@ true;global;false;true;1.0;true;false
 null;global;true;true;0.0;true;false
 @ctrlProcessor;global;false;true;1.0;true;false
 @ctrlPlayer;global;false;true;2.0;true;false
-@ctrlCommand;global;false;true;3.0;true;false
+@ctrlFormation;global;false;true;3.0;true;false
 @copper;global;true;true;0.0;false;false
 @lead;global;true;true;0.0;false;false
 @metaglass;global;true;true;0.0;false;false
