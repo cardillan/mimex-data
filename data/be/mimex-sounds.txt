@@ -183,6 +183,7 @@ tankMoveSmall
 uiBack
 uiButton
 uiChat
+uiFavorite
 uiNotify
 uiUnlock
 unitCreate

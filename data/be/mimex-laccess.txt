@@ -58,9 +58,10 @@ payloadCount;54;false;true;false;false;
 payloadType;55;false;true;false;true;
 totalPayload;56;false;true;false;false;
 payloadCapacity;57;false;true;false;false;
-id;58;false;true;false;false;
-enabled;59;false;true;true;false;to
-shoot;60;false;false;true;false;x,y,shoot
-shootp;61;true;false;true;false;unit,shoot
-config;62;true;true;true;false;to
-color;63;false;true;true;false;to
+maxUnits;58;false;true;false;false;
+id;59;false;true;false;false;
+enabled;60;false;true;true;false;to
+shoot;61;false;false;true;false;x,y,shoot
+shootp;62;true;false;true;false;unit,shoot
+config;63;true;true;true;false;to
+color;64;false;true;true;false;to
