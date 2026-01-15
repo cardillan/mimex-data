@@ -795,6 +795,7 @@
 @sfx-chargeLancer
 @sfx-explosionArtillery
 @sfx-loopPulse
+@sfx-uiFavorite
 @sfx-loopUnitBuilding
 @sfx-uiChat
 @sfx-walkerStep
