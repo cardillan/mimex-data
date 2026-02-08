@@ -56,6 +56,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @bottomRight;global;false;true;20.0;true;false
 @boulder;global;true;true;0.0;false;false
 @breach;global;true;true;0.0;false;false
+@breaking;global;true;true;0.0;false;false
 @bridge-conduit;global;true;true;0.0;false;false
 @bridge-conveyor;global;true;true;0.0;false;false
 @bryde;global;true;true;0.0;false;false
@@ -77,6 +78,9 @@ name;global;isobj;constant;numval;isnull;privileged
 @build7;global;true;true;0.0;false;false
 @build8;global;true;true;0.0;false;false
 @build9;global;true;true;0.0;false;false
+@buildX;global;true;true;0.0;false;false
+@buildY;global;true;true;0.0;false;false
+@building;global;true;true;0.0;false;false
 @cameraHeight;global;true;true;0.0;false;false
 @cameraWidth;global;true;true;0.0;false;false
 @cameraX;global;true;true;0.0;false;false
@@ -553,6 +557,8 @@ name;global;isobj;constant;numval;isnull;privileged
 @second;global;false;true;0.0;true;false
 @segment;global;true;true;0.0;false;false
 @sei;global;true;true;0.0;false;false
+@selectedBlock;global;true;true;0.0;false;false
+@selectedRotation;global;true;true;0.0;false;false
 @separator;global;true;true;0.0;false;false
 @server;global;false;true;0.0;true;true
 @sfx-acceleratorCharge;global;false;true;0.0;true;false
