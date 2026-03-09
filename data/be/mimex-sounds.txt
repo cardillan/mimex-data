@@ -100,6 +100,10 @@ mechStepHeavy
 mechStepSmall
 padLand
 padLaunch
+payloadDrop1
+payloadDrop2
+payloadDrop3
+payloadPickup
 plantBreak
 rain
 rockBreak
