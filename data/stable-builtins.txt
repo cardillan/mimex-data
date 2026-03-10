@@ -710,6 +710,7 @@
 @sfx-shipMove
 @colorScarlet
 @sfx-loopElectricHum
+@sfx-payloadPickup
 @colorDarkgrey
 @sfx-shootElude
 @sfx-shootMissilePlasmaShort
@@ -773,9 +774,12 @@
 @sfx-uiNotify
 @sfx-loopConveyor
 @colorSlate
+@sfx-payloadDrop2
 @sfx-explosionDull
+@sfx-payloadDrop1
 @sfx-shootStell
 @sfx-shootDuo
+@sfx-payloadDrop3
 @colorCrimson
 @sfx-beamHeal
 @sfx-loopCircuit
