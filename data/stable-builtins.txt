@@ -258,6 +258,7 @@
 @world-message
 @tile-logic-display
 @world-switch
+@large-canvas
 @dagger
 @mace
 @fortress

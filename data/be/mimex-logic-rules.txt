@@ -18,6 +18,7 @@ solarMultiplier;true
 dragMultiplier;true
 ban;true
 unban;true
+pauseDisabled;true
 buildSpeed;true
 unitHealth;true
 unitBuildSpeed;true

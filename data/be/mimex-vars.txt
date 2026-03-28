@@ -47,7 +47,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @blast-door;global;true;true;0.0;false;false
 @blast-drill;global;true;true;0.0;false;false
 @blast-mixer;global;true;true;0.0;false;false
-@blockCount;global;false;true;260.0;true;false
+@blockCount;global;false;true;261.0;true;false
 @blue;global;true;true;0.0;false;false
 @bluemat;global;true;true;0.0;false;false
 @boosting;global;true;true;0.0;false;false
@@ -307,6 +307,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @kiln;global;true;true;0.0;false;false
 @lancer;global;true;true;0.0;false;false
 @landing-pad;global;true;true;0.0;false;false
+@large-canvas;global;true;true;0.0;false;false
 @large-cliff-crusher;global;true;true;0.0;false;false
 @large-constructor;global;true;true;0.0;false;false
 @large-logic-display;global;true;true;0.0;false;false
