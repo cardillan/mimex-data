@@ -81,6 +81,8 @@ name;global;isobj;constant;numval;isnull;privileged
 @buildX;global;true;true;0.0;false;false
 @buildY;global;true;true;0.0;false;false
 @building;global;true;true;0.0;false;false
+@bulletLifetime;global;true;true;0.0;false;false
+@bulletTime;global;true;true;0.0;false;false
 @cameraHeight;global;true;true;0.0;false;false
 @cameraWidth;global;true;true;0.0;false;false
 @cameraX;global;true;true;0.0;false;false
@@ -447,6 +449,9 @@ name;global;isobj;constant;numval;isnull;privileged
 @phase-weaver;global;true;true;0.0;false;false
 @pi;global;false;true;3.1415927410125732;true;false
 @pine;global;true;true;0.0;false;false
+@pingText;global;true;true;0.0;false;false
+@pingX;global;true;true;0.0;false;false
+@pingY;global;true;true;0.0;false;false
 @plasma-bore;global;true;true;0.0;false;false
 @plastanium;global;true;true;0.0;false;false
 @plastanium-compressor;global;true;true;0.0;false;false

@@ -5,7 +5,7 @@ burning;1;-1;false
 freezing;2;-1;false
 unmoving;3;-1;false
 slow;4;-1;true
-fast;5;-1;true
+fast;5;-1;false
 wet;6;-1;false
 muddy;7;-1;true
 melting;8;-1;false
