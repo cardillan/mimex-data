@@ -16,6 +16,7 @@ Liquid;mimex-liquids.txt
 LogicOp;mimex-operations.txt
 LogicRule;mimex-logic-rules.txt
 MessageType;mimex-message-types.txt
+QueryShape;mimex-query-shapes.txt
 QueryType;mimex-query-types.txt
 RadarSort;mimex-radar-sorts.txt
 RadarTarget;mimex-radar-targets.txt
