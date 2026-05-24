@@ -15,7 +15,7 @@ radar;enemy any any distance turret1 1 result;RadarTarget RadarTarget RadarTarge
 sensor;result block1 @copper;var var var;to from type;Sensor;Sensor;false;false;false;Get data from a building or unit.;block;d4816bff;Interact with blocks.
 set;result 0;var var;to from;Set;Set;false;false;false;Set a variable.;operation;877badff;Logical operations.
 op;add result a b;LogicOp var var var;op dest a b;Operation;Operation;false;false;false;Perform an operation on 1-2 variables.;operation;877badff;Logical operations.
-select;result notEqual x false a b;var ConditionOp var var var var;result op comp0 comp1 a b;Select;Select;false;false;false;;operation;877badff;Logical operations.
+select;result notEqual x false a b;var ConditionOp var var var var;result op comp0 comp1 a b;Select;Select;false;false;false;Conditionally set a variable to one of two values.;operation;877badff;Logical operations.
 wait;0.5;var;value;Wait;Wait;false;false;false;Wait a certain number of seconds.;control;6bb2b2ff;Manage execution order.
 stop;;;;Stop;Stop;false;false;false;Halt execution of this processor.;control;6bb2b2ff;Manage execution order.
 lookup;item result 0;ContentType var var;type result id;Lookup;Lookup;false;false;false;Look up an item/liquid/unit/block type by ID.%0ATotal counts of each type can be accessed with:%0A[accent]@unitCount[] / [accent]@itemCount[] / [accent]@liquidCount[] / [accent]@blockCount[]%0AFor the inverse operation, sense [accent]@id[] of the object.;operation;877badff;Logical operations.
