@@ -105,6 +105,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @client;global;false;true;0.0;true;true
 @clientLocale;global;true;true;0.0;true;true
 @clientMobile;global;false;true;0.0;true;true
+@clientMusicPlaying;global;false;true;0.0;true;true
 @clientName;global;true;true;0.0;true;true
 @clientTeam;global;false;true;0.0;true;true
 @clientUnit;global;true;true;0.0;true;true
