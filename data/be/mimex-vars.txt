@@ -266,6 +266,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @flag;global;true;true;0.0;false;false
 @flare;global;true;true;0.0;false;false
 @flux-reactor;global;true;true;0.0;false;false
+@flying;global;true;true;0.0;false;false
 @fog;global;true;true;0.0;false;false
 @force-projector;global;true;true;0.0;false;false
 @foreshadow;global;true;true;0.0;false;false
