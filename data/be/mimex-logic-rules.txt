@@ -19,6 +19,7 @@ dragMultiplier;true
 ban;true
 unban;true
 pauseDisabled;true
+musicVolume;true
 buildSpeed;true
 unitHealth;true
 unitBuildSpeed;true
