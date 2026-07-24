@@ -32,7 +32,7 @@ getblock;block result 0 0;TileLayer var var var;layer result x y;Get Block;GetBl
 setblock;block @air 0 0 @derelict 0;TileLayer var var var var var;layer block x y team rotation;Set Block;SetBlock;false;true;false;Set tile data at any location.;world;6b84d4ff;Control how the world behaves.
 spawn;@dagger 10 10 90 @sharded result true;var var var var var var var;type x y rotation team result effect;Spawn Unit;SpawnUnit;false;true;false;Spawn unit at a location.;world;6b84d4ff;Control how the world behaves.
 bullet;result @dagger 0 x y angle null null -1 1 1 -1 -1;var var var var var var var var var var var var var;result from index x y rotation team owner damage velocityScl lifeScl aimX aimY;Spawn Bullet;SpawnBullet;false;true;false;Spawns a bullet at a location.;world;6b84d4ff;Control how the world behaves.
-status;false wet unit 10;boolean var var var;clear effect unit duration;Apply Status;ApplyStatus;false;true;false;Apply or clear a status effect from a unit.;world;6b84d4ff;Control how the world behaves.
+status;false @status-wet unit 10;boolean var var var;clear effect unit duration;Apply Status;ApplyStatus;false;true;false;Apply or clear a status effect from a unit.;world;6b84d4ff;Control how the world behaves.
 weathersense;result @rain;var var;to weather;Weather Sense;WeatherSense;false;true;false;Check if a type of weather is active.;world;6b84d4ff;Control how the world behaves.
 weatherset;@rain true;var var;weather state;Weather Set;WeatherSet;false;true;false;Set the current state of a type of weather.;world;6b84d4ff;Control how the world behaves.
 spawnwave;10 10 false;var var var;x y natural;Spawn Wave;SpawnWave;false;true;false;Spawn a wave.;world;6b84d4ff;Control how the world behaves.
