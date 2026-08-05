@@ -41,7 +41,7 @@ message;announce 3 @wait;MessageType var var;type duration outSuccess;Flush Mess
 cutscene;pan 100 100 0.06 0;CutsceneAction var var var var;action p1 p2 p3 p4;Cutscene;Cutscene;false;true;false;Manipulate the player camera.;world;6b84d4ff;Control how the world behaves.
 effect;warn 0 0 2 %ffaaff ;var var var var var var;type x y sizerot color data;Effect;Effect;false;true;false;Create a particle effect.;world;6b84d4ff;Control how the world behaves.
 explosion;@crux 0 0 5 50 true true false true;var var var var var var var var var;team x y radius damage air ground pierce effect;Explosion;Explosion;false;true;false;Create an explosion at a location.;world;6b84d4ff;Control how the world behaves.
-setrate;10;var;amount;Set Rate;SetRate;false;true;false;Set processor execution speed in instructions/tick.;world;6b84d4ff;Control how the world behaves.
+setrate;10;var;amount;Set Rate;SetRate;false;false;false;Set processor execution speed in instructions/tick.%0ACannot surpass maximum execution speed.;control;6bb2b2ff;Manage execution order.
 fetch;unit result @sharded 0 @conveyor;FetchType var var var var;type result team index extra;Fetch;Fetch;false;true;false;Lookup units, cores, players or buildings by index.%0AIndices start at 0 and end at their returned count.;world;6b84d4ff;Control how the world behaves.
 sync;var;var;variable;Sync;Sync;false;true;false;Sync a variable across the network.%0ALimited to 20 times a second per variable.;world;6b84d4ff;Control how the world behaves.
 clientdata;"frog" "bar" 0;var var var;channel value reliable;Client Data;ClientData;true;true;false;;world;6b84d4ff;Control how the world behaves.
