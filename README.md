@@ -10,6 +10,7 @@ Several versions of the metadata are kept, each in a separate directory:
   * No longer maintained. The existing data is valid, but no new data fields are added.
 * `v146`: corresponds to **Mindustry 7.0 Build 146**
 * `v149`: corresponds to **v8 Build 149 Beta**
+* `v159.7`: corresponds to **v8 Build 159.7**
 * `be`: corresponds to the bleeding-edge version of Mindustry.
 
 In each directory, the following files are present (some files may be missing in older metadata versions, as the data was added in later game versions): 
@@ -29,7 +30,7 @@ In each directory, the following files are present (some files may be missing in
 * `mimex-graphics-types.txt`: `draw` commands
 * `mimex-icons.txt`: printable icons, including the UTF-16 value of the corresponding character
 * `mimex-items.txt`: item types
-* `mimex-laccess.txt`: sensable properties
+* `mimex-laccess.txt`: sensable/settable properties
 * `mimex-layers.txt`: map layers
 * `mimex-liquids.txt`: liquid types
 * `mimex-locate.txt`: types of objects for the `ulocate` instruction 

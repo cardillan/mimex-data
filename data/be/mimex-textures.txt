@@ -2023,6 +2023,7 @@ flare
 flare-wreck0
 flare-wreck1
 flare-wreck2
+flat-angled
 flat-down-base
 fluid
 fluid-gas-0

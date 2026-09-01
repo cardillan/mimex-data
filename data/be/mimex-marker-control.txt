@@ -3,6 +3,7 @@ name;setmarker
 remove;true
 world;true
 minimap;true
+light;true
 autoscale;true
 pos;true
 endPos;true
