@@ -257,6 +257,7 @@
 @world-cell
 @world-message
 @tile-logic-display
+@target-dummy
 @world-switch
 @large-canvas
 @dagger
