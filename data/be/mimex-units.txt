@@ -64,8 +64,9 @@ emanate;60;55;700.0;1.5;110;56.25;4.0
 block;61;-1;1.0;0.0;0;0.0;0.0
 manifold;62;-1;200.0;1.375;100;26.25;0.0
 assembly-drone;63;-1;90.0;0.75;20;9.75;0.0
-scathe-missile;64;-1;240.0;1.25;40;34.5;0.0
-scathe-missile-phase;65;-1;500.0;1.25;40;18.75;0.0
-scathe-missile-surge;66;-1;300.0;1.25;40;33.0;0.0
-scathe-missile-surge-split;67;-1;50.0;0.75;20;36.0;0.0
-turret-unit-build-tower;68;-1;1.0;0.0;0;0.0;0.0
+dummy;64;-1;200.0;1.5;40;8.25;0.0
+scathe-missile;65;-1;240.0;1.25;40;34.5;0.0
+scathe-missile-phase;66;-1;500.0;1.25;40;18.75;0.0
+scathe-missile-surge;67;-1;300.0;1.25;40;33.0;0.0
+scathe-missile-surge-split;68;-1;50.0;0.75;20;36.0;0.0
+turret-unit-build-tower;69;-1;1.0;0.0;0;0.0;0.0

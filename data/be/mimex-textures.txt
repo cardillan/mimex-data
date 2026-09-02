@@ -805,6 +805,8 @@ block-tank-fabricator-ui
 block-tank-refabricator-full
 block-tank-refabricator-ui
 block-tar-ui
+block-target-dummy-full
+block-target-dummy-ui
 block-tendrils-full
 block-tendrils-ui
 block-tetrative-reconstructor-full
@@ -1893,6 +1895,11 @@ duct-unloader
 duct-unloader-arrow
 duct-unloader-center
 duct-unloader-top
+dummy
+dummy-cell
+dummy-wreck0
+dummy-wreck1
+dummy-wreck2
 dune-wall-large
 dune-wall1
 dune-wall2
@@ -4767,6 +4774,14 @@ tank-refabricator
 tank-refabricator-top
 tar
 tar-edge
+target-dummy
+target-dummy-preview
+target-dummy-team
+target-dummy-team-crux
+target-dummy-team-malis
+target-dummy-team-sharded
+target-dummy-tether
+target-dummy-tether-end
 team-crux
 team-derelict
 team-malis
@@ -4951,6 +4966,8 @@ unit-disrupt-full
 unit-disrupt-missile-full
 unit-disrupt-missile-ui
 unit-disrupt-ui
+unit-dummy-full
+unit-dummy-ui
 unit-eclipse-full
 unit-eclipse-ui
 unit-elude-full

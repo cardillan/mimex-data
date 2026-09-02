@@ -47,7 +47,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @blast-door;global;true;true;0.0;false;false
 @blast-drill;global;true;true;0.0;false;false
 @blast-mixer;global;true;true;0.0;false;false
-@blockCount;global;false;true;261.0;true;false
+@blockCount;global;false;true;262.0;true;false
 @blue;global;true;true;0.0;false;false
 @bluemat;global;true;true;0.0;false;false
 @boosting;global;true;true;0.0;false;false
@@ -244,6 +244,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @duct-bridge;global;true;true;0.0;false;false
 @duct-router;global;true;true;0.0;false;false
 @duct-unloader;global;true;true;0.0;false;false
+@dummy;global;true;true;0.0;false;false
 @dune-wall;global;true;true;0.0;false;false
 @duo;global;true;true;0.0;false;false
 @e;global;false;true;2.7182817459106445;true;false
@@ -874,6 +875,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @tank-fabricator;global;true;true;0.0;false;false
 @tank-refabricator;global;true;true;0.0;false;false
 @tar;global;true;true;0.0;false;false
+@target-dummy;global;true;true;0.0;false;false
 @team;global;true;true;0.0;false;false
 @tecta;global;true;true;0.0;false;false
 @tendrils;global;true;true;0.0;false;false
