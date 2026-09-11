@@ -244,7 +244,6 @@ name;global;isobj;constant;numval;isnull;privileged
 @duct-bridge;global;true;true;0.0;false;false
 @duct-router;global;true;true;0.0;false;false
 @duct-unloader;global;true;true;0.0;false;false
-@dummy;global;true;true;0.0;false;false
 @dune-wall;global;true;true;0.0;false;false
 @duo;global;true;true;0.0;false;false
 @e;global;false;true;2.7182817459106445;true;false

@@ -3552,7 +3552,6 @@ metal-wall-3-7
 metal-wall-3-8
 metal-wall-3-9
 micro-processor
-mindustry-metadata-extractor-frog
 mine-bullet
 mine-bullet-back
 minelaser
