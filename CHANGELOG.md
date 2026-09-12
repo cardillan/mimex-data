@@ -2,6 +2,17 @@
 
 This changelog describes changes to the structure of the data files, starting 2026-09-02.
 
+## 2026-09-12
+
+- All versions
+  - `mimex-blocks.txt`:
+    - New attribute `memoryCapacity` for memory blocks.
+  - `mimex-textures.txt`:
+    - The `width` and height attributes, no longer present in BE, were removed from all other versions.  
+- Version `v126.2`:
+  - The version's status has been reverted to 'maintained' because the previously non-functional build of this mod version has now been fixed. 
+  - Metadata updated to include all attributes existing in this version.  
+
 ## 2026-09-02
 
 - All versions

@@ -7,11 +7,10 @@ The data are stored in individual text files in tabular form (semicolon separate
 Several versions of the metadata are kept, each in a separate directory:
 
 * `v126.2`: corresponds to **Mindustry 6.0 Build 126.2**
-  * No longer maintained. The existing data is valid, but no new data fields are added.
 * `v146`: corresponds to **Mindustry 7.0 Build 146**
 * `v149`: corresponds to **v8 Build 149 Beta**
 * `v159.7`: corresponds to **v8 Build 159.7**
-* `be`: corresponds to the bleeding-edge version of Mindustry.
+* `be`: corresponds to **v8 Build 160** and the bleeding-edge version of Mindustry.
 
 In each directory, the following files are present (some files may be missing in older metadata versions, as the data was added in later game versions): 
 

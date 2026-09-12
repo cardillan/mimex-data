@@ -280,5 +280,5 @@ null;global;true;true;0.0;true;false
 @unit;local;true;true;0.0;true;false
 @time;local;false;true;0.0;true;false
 @tick;local;false;true;0.0;true;false
-@this;local;false;true;0.0;true;false
+@this;local;true;true;0.0;true;false
 @counter;local;false;false;0.0;true;false

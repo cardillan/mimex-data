@@ -287,6 +287,7 @@ name;global;isobj;constant;numval;isnull;privileged
 @incite;global;true;true;0.0;false;false
 @interplanetary-accelerator;global;true;true;0.0;false;false
 @inverted-sorter;global;true;true;0.0;false;false
+@ipt;local;false;true;0.0;true;false
 @item-source;global;true;true;0.0;false;false
 @item-void;global;true;true;0.0;false;false
 @itemCapacity;global;true;true;0.0;false;false

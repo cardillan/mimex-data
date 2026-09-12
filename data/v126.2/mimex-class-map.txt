@@ -14,4 +14,5 @@ LogicOp;mimex-operations.txt
 RadarSort;mimex-radar-sorts.txt
 RadarTarget;mimex-radar-targets.txt
 StatusEffect;mimex-status-effects.txt
+Team;mimex-teams.txt
 Unit;mimex-units.txt
